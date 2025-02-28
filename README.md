@@ -20,8 +20,8 @@
 # Build and run
 
 ```bash
-$make
-$build/pong.out //пошаговый
-$build/pong_interactive.out //интерактивный
-$make clean
+$ make
+$ build/pong.out //пошаговый
+$ build/pong_interactive.out //интерактивный
+$ make clean
 ```
